@@ -1,6 +1,6 @@
 # Build an LMS Platform: Next.js 13,  React, Stripe, Mux, Prisma, Tailwind, MySQL | Full Course 2023
 
-![Copy of Copy of Copy of Copy of LMS](public/assets.png)
+<img src="public/assets.png" alt="banner">
 
 ### Cloning the repository
 
